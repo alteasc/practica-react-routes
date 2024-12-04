@@ -1,0 +1,11 @@
+.home {
+  height: 500px;
+  background-color: rgb(76, 47, 47);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home > h2 {
+  font-size: 30px;
+}

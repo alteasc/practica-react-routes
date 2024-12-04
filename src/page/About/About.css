@@ -1,0 +1,11 @@
+.about {
+  height: 900px;
+  background-color: rgb(197, 167, 125);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about > h2 {
+  font-size: 30px;
+}
